@@ -1,15 +1,15 @@
 ﻿/*
  Two Sum Problem
- ------------------
+ -------------------
  Problem Link: https://leetcode.com/problems/two-sum/
  Run Time: 133ms
  Memory: 47.55 MB
- ------------------
+ -------------------
 */
 
 namespace LeetCode.LeetCode
 {
-    internal class Problem_1
+    public class Problem_1
     {
         public int[] TwoSum(int[] nums, int target)
         {
