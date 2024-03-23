@@ -15,7 +15,7 @@ namespace LeetCode.LeetCode
         {
             int[] result = new int[2];
             int newValue;
-
+            int deneme=10;
             for (int i = 0; i < nums.Length; i++)
             {
                 newValue = nums[i];
