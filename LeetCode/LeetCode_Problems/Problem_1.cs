@@ -11,6 +11,7 @@ namespace LeetCode.LeetCode
 {
     public class Problem_1
     {
+        string yusuf;
         public int[] TwoSum(int[] nums, int target)
         {
             int[] result = new int[2];
